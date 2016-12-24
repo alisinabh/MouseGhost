@@ -1,4 +1,4 @@
-# MouseGhost
+# Mouse Ghost
 An old project for recording and playback mouse actions on Windows with C#
 
 I've made this project in request of one of my highschool friends. he wanted to record his mouse pointer actions on an online gaem so he can make progress in the game even while he's asleep :)
