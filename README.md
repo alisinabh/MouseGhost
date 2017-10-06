@@ -13,5 +13,6 @@ Using MouseGhost is pretty simple, you should
   3. For click or right click action where your mouse pointer is, you can press F9 (left click), F6 (right click).
   4. If you want you can create a pause by pressing F7, when you create a pause during record, in playback you can choose to continue.
   5. For stopping record you can again, press F11 or clock on Record button.
-  6. For starting playback you can click on Play button or press F12 (or F8 as an alternative where you can't press F12)
-  7. If you created a pause you can continue playback with pressing F12 or F8
+  6. For starting playback you can click on Play button or press F12
+  7. If you created a pause you can continue playback with pressing F12
+  8. For stopping a playback press F8

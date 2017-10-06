@@ -96,8 +96,10 @@ namespace MouseGhost
                 case Keys.F11: // Start recording
                     DoRecord();
                     break;
-                case Keys.F8: // Starts playback
-                case Keys.F12: // Playback alternative
+                case Keys.F8: // Stop playback
+		    _forceStop = true;
+		    break;
+                case Keys.F12: // Playback
                     PlayBack();
                     break;
                 case Keys.F7: // Adds a pause
